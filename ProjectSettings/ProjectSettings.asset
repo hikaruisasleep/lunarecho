@@ -141,7 +141,13 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 1.0
+<<<<<<< HEAD
   preloadedAssets: []
+=======
+  preloadedAssets:
+  - {fileID: 11400000, guid: 045423917dd18a345917a9a7dbf07b15, type: 2}
+  - {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+>>>>>>> 39a5b7f (lol)
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -596,8 +602,13 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: LunarEcho
   metroPackageVersion: 1.0.0.0
+=======
+  metroPackageName: Lunar Echo
+  metroPackageVersion: 
+>>>>>>> 39a5b7f (lol)
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -605,7 +616,11 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Lunar Echo
   wsaImages: {}
+<<<<<<< HEAD
   metroTileShortName: Lunar Echo
+=======
+  metroTileShortName: 
+>>>>>>> 39a5b7f (lol)
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0

@@ -214,7 +214,11 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+<<<<<<< HEAD
     filterMode: 1
+=======
+    filterMode: 0
+>>>>>>> 39a5b7f (lol)
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -228,7 +232,11 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   spritePixelsToUnits: 100
+=======
+  spritePixelsToUnits: 128
+>>>>>>> 39a5b7f (lol)
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -252,7 +260,11 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
+<<<<<<< HEAD
     textureCompression: 1
+=======
+    textureCompression: 0
+>>>>>>> 39a5b7f (lol)
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -280,10 +292,17 @@ TextureImporter:
       name: generic_sheet_double_0
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 25
         y: 655
         width: 96
         height: 98
+=======
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +321,17 @@ TextureImporter:
       name: generic_sheet_double_1
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 143
         y: 648
         width: 98
         height: 95
+=======
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,10 +350,17 @@ TextureImporter:
       name: generic_sheet_double_2
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 175
         y: 732
         width: 34
         height: 22
+=======
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,10 +379,17 @@ TextureImporter:
       name: generic_sheet_double_3
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 263
         y: 655
         width: 96
         height: 98
+=======
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +408,17 @@ TextureImporter:
       name: generic_sheet_double_4
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 431
         y: 731
         width: 34
         height: 22
+=======
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,10 +437,17 @@ TextureImporter:
       name: generic_sheet_double_5
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 527
         y: 646
         width: 98
         height: 94
+=======
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,10 +466,17 @@ TextureImporter:
       name: generic_sheet_double_6
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 559
         y: 734
         width: 34
         height: 22
+=======
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,10 +495,17 @@ TextureImporter:
       name: generic_sheet_double_7
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 655
         y: 646
         width: 98
         height: 94
+=======
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,10 +524,17 @@ TextureImporter:
       name: generic_sheet_double_8
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 687
         y: 734
         width: 34
         height: 22
+=======
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +553,17 @@ TextureImporter:
       name: generic_sheet_double_9
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 13
         y: 699
         width: 22
         height: 34
+=======
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,10 +582,17 @@ TextureImporter:
       name: generic_sheet_double_10
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 349
         y: 699
         width: 22
         height: 34
+=======
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,10 +611,17 @@ TextureImporter:
       name: generic_sheet_double_11
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 399
         y: 655
         width: 98
         height: 66
+=======
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,10 +640,17 @@ TextureImporter:
       name: generic_sheet_double_12
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 28
         y: 553
         width: 51
         height: 68
+=======
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,10 +669,17 @@ TextureImporter:
       name: generic_sheet_double_13
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 178
         y: 553
         width: 50
         height: 68
+=======
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -588,10 +698,17 @@ TextureImporter:
       name: generic_sheet_double_14
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 306
         y: 553
         width: 50
         height: 68
+=======
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -610,10 +727,17 @@ TextureImporter:
       name: generic_sheet_double_15
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 399
         y: 527
         width: 98
         height: 98
+=======
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -632,10 +756,17 @@ TextureImporter:
       name: generic_sheet_double_16
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 527
         y: 527
         width: 98
         height: 98
+=======
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -654,10 +785,17 @@ TextureImporter:
       name: generic_sheet_double_17
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 645
         y: 571
         width: 22
         height: 34
+=======
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -676,10 +814,17 @@ TextureImporter:
       name: generic_sheet_double_18
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 665
         y: 602
         width: 78
         height: 23
+=======
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -698,10 +843,17 @@ TextureImporter:
       name: generic_sheet_double_19
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 671
         y: 565
         width: 66
         height: 46
+=======
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,10 +872,17 @@ TextureImporter:
       name: generic_sheet_double_20
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 741
         y: 571
         width: 22
         height: 34
+=======
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -742,10 +901,17 @@ TextureImporter:
       name: generic_sheet_double_21
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 42
         y: 531
         width: 58
         height: 42
+=======
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -764,10 +930,17 @@ TextureImporter:
       name: generic_sheet_double_22
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 156
         y: 531
         width: 58
         height: 42
+=======
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -786,10 +959,17 @@ TextureImporter:
       name: generic_sheet_double_23
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 284
         y: 531
         width: 58
         height: 42
+=======
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -808,10 +988,17 @@ TextureImporter:
       name: generic_sheet_double_24
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 657
         y: 527
         width: 94
         height: 44
+=======
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -830,10 +1017,17 @@ TextureImporter:
       name: generic_sheet_double_25
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 15
         y: 399
         width: 98
         height: 98
+=======
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -852,10 +1046,17 @@ TextureImporter:
       name: generic_sheet_double_26
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 163
         y: 403
         width: 58
         height: 40
+=======
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -874,10 +1075,17 @@ TextureImporter:
       name: generic_sheet_double_27
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 167
         y: 423
         width: 50
         height: 70
+=======
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -896,10 +1104,17 @@ TextureImporter:
       name: generic_sheet_double_28
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 271
         y: 435
         width: 22
         height: 26
+=======
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -918,10 +1133,17 @@ TextureImporter:
       name: generic_sheet_double_29
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 291
         y: 403
         width: 58
         height: 40
+=======
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -940,10 +1162,17 @@ TextureImporter:
       name: generic_sheet_double_30
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 295
         y: 423
         width: 50
         height: 70
+=======
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -962,10 +1191,17 @@ TextureImporter:
       name: generic_sheet_double_31
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 347
         y: 435
         width: 22
         height: 26
+=======
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -984,10 +1220,17 @@ TextureImporter:
       name: generic_sheet_double_32
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 412
         y: 425
         width: 51
         height: 68
+=======
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1006,10 +1249,17 @@ TextureImporter:
       name: generic_sheet_double_33
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 426
         y: 403
         width: 58
         height: 42
+=======
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1028,10 +1278,17 @@ TextureImporter:
       name: generic_sheet_double_34
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 547
         y: 403
         width: 58
         height: 40
+=======
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1050,10 +1307,17 @@ TextureImporter:
       name: generic_sheet_double_35
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 551
         y: 423
         width: 50
         height: 70
+=======
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+>>>>>>> 39a5b7f (lol)
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1068,6 +1332,7 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+<<<<<<< HEAD
     - serializedVersion: 2
       name: generic_sheet_double_36
       rect:
@@ -1596,11 +1861,17 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+=======
+>>>>>>> 39a5b7f (lol)
     outline: []
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: 
+=======
+    spriteID: 42a08edd286aa3d4ab59b59bdebde6c8
+>>>>>>> 39a5b7f (lol)
     internalID: 0
     vertices: []
     indices: 
@@ -1640,6 +1911,7 @@ TextureImporter:
       generic_sheet_double_33: 4334471093439474278
       generic_sheet_double_34: 6290209879148053524
       generic_sheet_double_35: 5275853507601104572
+<<<<<<< HEAD
       generic_sheet_double_36: -8711261485250791969
       generic_sheet_double_37: -2212328447534470241
       generic_sheet_double_38: -6406988227268366223
@@ -1666,6 +1938,10 @@ TextureImporter:
       generic_sheet_double_57: -7114688363509039651
       generic_sheet_double_58: -772869158783381520
       generic_sheet_double_59: -3894081383375099584
+=======
+      generic_sheet_double_4: -2623794268574565230
+      generic_sheet_double_5: -3288143782600398355
+>>>>>>> 39a5b7f (lol)
       generic_sheet_double_6: 3667064947966061002
       generic_sheet_double_7: 5287275620378738814
       generic_sheet_double_8: 844806249129355244

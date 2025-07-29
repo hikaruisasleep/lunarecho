@@ -21,7 +21,11 @@
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
+<<<<<<< HEAD
                     "initialStateCheck": false
+=======
+                    "initialStateCheck": true
+>>>>>>> 39a5b7f (lol)
                 },
                 {
                     "name": "Middle Click",
@@ -219,7 +223,11 @@
             "actions": [
                 {
                     "name": "Point",
+<<<<<<< HEAD
                     "type": "PassThrough",
+=======
+                    "type": "Value",
+>>>>>>> 39a5b7f (lol)
                     "id": "d9bf5022-89df-4809-9037-c83b8b5b9c5c",
                     "expectedControlType": "Vector2",
                     "processors": "",
@@ -255,21 +263,37 @@
                 },
                 {
                     "name": "Wheel",
+<<<<<<< HEAD
                     "type": "PassThrough",
+=======
+                    "type": "Value",
+>>>>>>> 39a5b7f (lol)
                     "id": "285bb565-ea0b-4bba-8dcb-cae28da8fc0d",
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
+<<<<<<< HEAD
                     "initialStateCheck": false
                 },
                 {
                     "name": "Move",
                     "type": "PassThrough",
+=======
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Move",
+                    "type": "Value",
+>>>>>>> 39a5b7f (lol)
                     "id": "cda6c1ac-781e-4b6e-8f3f-00c3ec0ada80",
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
+<<<<<<< HEAD
                     "initialStateCheck": false
+=======
+                    "initialStateCheck": true
+>>>>>>> 39a5b7f (lol)
                 },
                 {
                     "name": "Build Mode",

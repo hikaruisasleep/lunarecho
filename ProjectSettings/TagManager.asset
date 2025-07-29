@@ -10,7 +10,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
+<<<<<<< HEAD
   - Ground
+=======
+  - 
+>>>>>>> 39a5b7f (lol)
   - Water
   - UI
   - 

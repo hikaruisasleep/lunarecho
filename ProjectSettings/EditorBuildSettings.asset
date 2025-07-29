@@ -5,7 +5,11 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+<<<<<<< HEAD
   - enabled: 1
+=======
+  - enabled: 0
+>>>>>>> 39a5b7f (lol)
     path: Assets/Scenes/Menu.unity
     guid: ee3f8e7626ffbcd42a98c21330acb6f1
   - enabled: 1
@@ -13,5 +17,9 @@ EditorBuildSettings:
     guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 045423917dd18a345917a9a7dbf07b15, type: 2}
+<<<<<<< HEAD
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: be04a3633e269f64e9f012a362317690, type: 3}
+=======
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+>>>>>>> 39a5b7f (lol)
   m_UseUCBPForAssetBundles: 0

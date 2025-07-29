@@ -14,6 +14,10 @@ namespace PlayerVitalsSystem
         [SerializeField] private float vitalsDepletionRate;
 
         Coroutine breathingCoroutine;
+<<<<<<< HEAD
+=======
+        Coroutine rechargeCoroutine;
+>>>>>>> 39a5b7f (lol)
 
         [SerializeField] Slider oxygenSlider;
         [SerializeField] Slider healthSlider;
@@ -33,8 +37,12 @@ namespace PlayerVitalsSystem
 
         public void ReplenishOxygen()
         {
+<<<<<<< HEAD
             StartCoroutine(SetRecentCharge());
             oxygenAmount = maxOxygenAmount;
+=======
+            StartCoroutine(RechargeOxygen());
+>>>>>>> 39a5b7f (lol)
         }
 
         IEnumerator Breathing()
@@ -54,10 +62,26 @@ namespace PlayerVitalsSystem
             }
         }
 
+<<<<<<< HEAD
         IEnumerator SetRecentCharge()
         {
             StopCoroutine(breathingCoroutine);
             yield return new WaitForSeconds(10);
+=======
+        IEnumerator RechargeOxygen()
+        {
+            while (oxygenAmount < maxOxygenAmount)
+            {
+                oxygenAmount++;
+                yield return new WaitForSeconds(1 / 1000);
+            }
+        }
+
+        IEnumerator SetRecentCharge()
+        {
+            StopCoroutine(breathingCoroutine);
+            yield return new WaitForSeconds(1);
+>>>>>>> 39a5b7f (lol)
             breathingCoroutine = StartCoroutine(Breathing());
         }
     }
