@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 using MiningSystem;
->>>>>>> 39a5b7f (lol)
 using UnityEngine;
 
 public class DroppedCrystal : MonoBehaviour, ICollectible
@@ -13,12 +10,6 @@ public class DroppedCrystal : MonoBehaviour, ICollectible
 
     Rigidbody2D rb;
 
-<<<<<<< HEAD
-    void Start()
-    {
-        rb = GetComponent<Rigidbody2D>();
-
-=======
     [SerializeField] Crystal.CrystalType crystalType;
 
     void Awake()
@@ -28,7 +19,6 @@ public class DroppedCrystal : MonoBehaviour, ICollectible
 
     void Start()
     {
->>>>>>> 39a5b7f (lol)
         distX = Random.Range(0, 0.5f);
         distY = Random.Range(0, 0.5f);
 
@@ -44,11 +34,6 @@ public class DroppedCrystal : MonoBehaviour, ICollectible
         rb.AddTorque((rot * Mathf.Deg2Rad) * rb.inertia, ForceMode2D.Impulse);
     }
 
-<<<<<<< HEAD
-    public void Collect()
-    {
-
-=======
     public static event System.Action<Crystal.CrystalType> OnShardCollected = delegate { };
     bool isFollowing;
     Vector3 target;
@@ -72,6 +57,5 @@ public class DroppedCrystal : MonoBehaviour, ICollectible
     {
         target = pos;
         isFollowing = true;
->>>>>>> 39a5b7f (lol)
     }
 }

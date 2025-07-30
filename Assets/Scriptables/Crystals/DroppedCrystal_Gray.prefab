@@ -129,10 +129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 457ff7c39343bf64abfc0457090fdfeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-=======
   crystalType: 3
->>>>>>> 39a5b7f (lol)
 --- !u!58 &6935878591922774392
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -168,8 +165,4 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-<<<<<<< HEAD
-  m_Radius: 1
-=======
   m_Radius: 0.15
->>>>>>> 39a5b7f (lol)

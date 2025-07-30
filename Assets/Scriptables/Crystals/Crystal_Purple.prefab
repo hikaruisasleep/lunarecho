@@ -103,14 +103,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   crystalType: 0
   hovered: 0
-<<<<<<< HEAD
-  CrystalDropPrefab: {fileID: 7561666418765807739, guid: ba36dc2a0615c1646b76923f1cbe5cf4, type: 3}
-  interactiblesGridLayer: {fileID: 0}
-=======
   near: 0
   CrystalDropPrefab: {fileID: 7561666418765807739, guid: ba36dc2a0615c1646b76923f1cbe5cf4, type: 3}
   hoverTile: {fileID: 11400000, guid: 76b53e8200aaa2b408af7914b5359c88, type: 2}
->>>>>>> 39a5b7f (lol)
 --- !u!58 &2505354231979203583
 CircleCollider2D:
   m_ObjectHideFlags: 0

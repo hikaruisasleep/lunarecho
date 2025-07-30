@@ -2,9 +2,6 @@ using UnityEngine;
 
 public class InventoryManager : MonoBehaviour
 {
-<<<<<<< HEAD
-
-=======
     public static InventoryManager instance { get; private set; }
 
     public InventorySlot[] slots;
@@ -29,5 +26,4 @@ public class InventoryManager : MonoBehaviour
 
         inventoryItem.InitializeItem(item);
     }
->>>>>>> 39a5b7f (lol)
 }

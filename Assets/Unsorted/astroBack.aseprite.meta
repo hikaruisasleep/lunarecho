@@ -84,11 +84,6 @@ ScriptedImporter:
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-<<<<<<< HEAD
-=======
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
->>>>>>> 39a5b7f (lol)
   asepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
@@ -102,13 +97,8 @@ ScriptedImporter:
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-<<<<<<< HEAD
-=======
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
->>>>>>> 39a5b7f (lol)
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638823380829229937
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -133,7 +123,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Sprite-0001
+  - name: astroBack
     originalName: 
     pivot: {x: 0.50000006, y: -0.10256411}
     alignment: 9
@@ -145,7 +135,7 @@ ScriptedImporter:
       y: 4
       width: 28
       height: 39
-    spriteID: 0024263b58162a54e8fe5ca14428078e
+    spriteID: e1ffb4edfa441ca46b4826e7b5ba9082
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,19 +145,15 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
   spriteSheetImportData: []
-<<<<<<< HEAD
-=======
-  tileSetImportData: []
->>>>>>> 39a5b7f (lol)
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 4228612825
+      value0: 1251052782
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: Sprite-0001
+    name: astroBack
     layerFlags: 0
     layerType: 0
     blendMode: 0
@@ -180,33 +166,14 @@ ScriptedImporter:
         y: 4
         width: 28
         height: 39
-      spriteId: 0024263b58162a54e8fe5ca14428078e
+      spriteId: e1ffb4edfa441ca46b4826e7b5ba9082
     linkedCells: []
-<<<<<<< HEAD
     parentIndex: -1
-=======
-    tileCells: []
-    tileSetIndex: 0
-    parentIndex: -1
-  tileSets: []
->>>>>>> 39a5b7f (lol)
   platformSettings:
-  - name: DefaultTexturePlatform
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
-    maxTextureSize: 16384
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0

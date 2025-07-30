@@ -75,40 +75,30 @@ ScriptedImporter:
     fileImportMode: 1
     importHiddenLayers: 0
     layerImportMode: 1
-    defaultPivotSpace: 1
+    defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 0
+    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-<<<<<<< HEAD
-=======
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
->>>>>>> 39a5b7f (lol)
   asepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
     layerImportMode: 1
-    defaultPivotSpace: 1
+    defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 0
+    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-<<<<<<< HEAD
-=======
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
->>>>>>> 39a5b7f (lol)
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638834492076364295
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -135,17 +125,17 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: inventory 1
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
+    pivot: {x: 0.60066557, y: -0.23443224}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
       serializedVersion: 2
-      x: 0
-      y: 0
+      x: 4
+      y: 4
       width: 601
       height: 273
-    spriteID: a6defca7e08b84944a2811b95040d6e9
+    spriteID: 11a4caf79912d374abd07849023980e2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,12 +143,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 0, y: 0}
+    uvTransform: {x: 4, y: 4}
   spriteSheetImportData: []
-<<<<<<< HEAD
-=======
-  tileSetImportData: []
->>>>>>> 39a5b7f (lol)
   asepriteLayers:
   - layerIndex: 0
     uuid:
@@ -180,33 +166,14 @@ ScriptedImporter:
         y: 64
         width: 601
         height: 273
-      spriteId: a6defca7e08b84944a2811b95040d6e9
+      spriteId: 11a4caf79912d374abd07849023980e2
     linkedCells: []
-<<<<<<< HEAD
     parentIndex: -1
-=======
-    tileCells: []
-    tileSetIndex: 0
-    parentIndex: -1
-  tileSets: []
->>>>>>> 39a5b7f (lol)
   platformSettings:
-  - name: DefaultTexturePlatform
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
-    maxTextureSize: 16384
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0

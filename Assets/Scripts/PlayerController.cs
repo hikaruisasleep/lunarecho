@@ -12,14 +12,8 @@ public class PlayerController : MonoBehaviour
 
     Animator animator;
     private Vector2 lastMoveDir;
-<<<<<<< HEAD
-    private bool facing = true;
-
-    private void Start()
-=======
 
     private void Awake()
->>>>>>> 39a5b7f (lol)
     {
         actionMap_game = InputSystem.actions.FindActionMap("Game");
         moveInput = actionMap_game.FindAction("Move");

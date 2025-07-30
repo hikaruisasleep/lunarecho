@@ -74,41 +74,31 @@ ScriptedImporter:
   previousAsepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
-    layerImportMode: 0
-    defaultPivotSpace: 1
-    defaultPivotAlignment: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 0
+    mosaicPadding: 4
     spritePadding: 0
-    generateModelPrefab: 0
-    generateAnimationClips: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-<<<<<<< HEAD
-=======
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
->>>>>>> 39a5b7f (lol)
   asepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
-    layerImportMode: 0
-    defaultPivotSpace: 1
-    defaultPivotAlignment: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 0
+    mosaicPadding: 4
     spritePadding: 0
-    generateModelPrefab: 0
-    generateAnimationClips: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-<<<<<<< HEAD
-=======
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
->>>>>>> 39a5b7f (lol)
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638834551081856946
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -133,19 +123,19 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Layer 1
+  - name: oxygen bar
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
+    pivot: {x: 0.44705886, y: -1.2}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
     rect:
       serializedVersion: 2
-      x: 0
-      y: 0
+      x: 4
+      y: 4
       width: 85
       height: 15
-    spriteID: 93ab5c2f17588264f946dec57f70fc57
+    spriteID: 0f83e9e1eea1dec499aa19cace01420e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,47 +143,22 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 0, y: 0}
-  - name: Layer 2
-    originalName: 
-    pivot: {x: 0, y: 0.5}
-    alignment: 4
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 0
-      y: 15
-      width: 81
-      height: 11
-    spriteID: 5cb807654cfa72546ba338b23fc601d9
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 0, y: 15}
+    uvTransform: {x: 4, y: 4}
   spriteSheetImportData: []
-<<<<<<< HEAD
-=======
-  tileSetImportData: []
->>>>>>> 39a5b7f (lol)
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 4287466680
+      value0: 3858230891
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: Layer 1
-    layerFlags: 3
+    name: oxygen bar
+    layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Layer 1
+    - name: oxygen bar
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -201,61 +166,14 @@ ScriptedImporter:
         y: 18
         width: 85
         height: 15
-      spriteId: 93ab5c2f17588264f946dec57f70fc57
+      spriteId: 0f83e9e1eea1dec499aa19cace01420e
     linkedCells: []
-<<<<<<< HEAD
-=======
-    tileCells: []
-    tileSetIndex: 0
->>>>>>> 39a5b7f (lol)
     parentIndex: -1
-  - layerIndex: 1
-    uuid:
-      value0: 4287466677
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: 0
-    name: Layer 2
-    layerFlags: 3
-    layerType: 0
-    blendMode: 0
-    cells:
-    - name: Layer 2
-      frameIndex: 0
-      additiveSortOrder: 0
-      cellRect:
-        x: 12
-        y: 20
-        width: 81
-        height: 11
-      spriteId: 5cb807654cfa72546ba338b23fc601d9
-    linkedCells: []
-<<<<<<< HEAD
-    parentIndex: -1
-=======
-    tileCells: []
-    tileSetIndex: 0
-    parentIndex: -1
-  tileSets: []
->>>>>>> 39a5b7f (lol)
   platformSettings:
-  - name: DefaultTexturePlatform
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
-    maxTextureSize: 16384
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0

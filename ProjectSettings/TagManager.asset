@@ -3,18 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags:
-  - MineableCrystal
-  - DroppedItem
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-<<<<<<< HEAD
-  - Ground
-=======
   - 
->>>>>>> 39a5b7f (lol)
   - Water
   - UI
   - 
@@ -44,15 +38,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 3001384079
-    locked: 0
-  - name: Floor
-    uniqueID: 1548329339
-    locked: 0
-  - name: Interactibles
-    uniqueID: 2522516279
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
