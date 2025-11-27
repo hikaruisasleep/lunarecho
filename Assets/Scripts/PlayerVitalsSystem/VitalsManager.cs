@@ -16,8 +16,8 @@ namespace PlayerVitalsSystem
         Coroutine breathingCoroutine;
         Coroutine rechargeCoroutine;
 
-        [SerializeField] Slider oxygenSlider;
-        [SerializeField] Slider healthSlider;
+        public Slider oxygenSlider;
+        public Slider healthSlider;
 
         void Start()
         {
